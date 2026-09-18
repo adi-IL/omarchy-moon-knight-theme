@@ -5,40 +5,41 @@
 <h1 align="center">Moon Knight</h1>
 
 <p align="center">
-  <em>An Egyptian obsidian and celestial cyan theme for <a href="https://omarchy.org/">Omarchy</a></em>
+  <em>An obsidian, celestial violet, and alabaster theme for <a href="https://omarchy.org/">Omarchy</a></em>
 </p>
 
 <p align="center">
-  <em>#dark · #moonknight · #marvel · #cyan · #obsidian</em>
+  <em>#dark · #moonknight · #violet · #monochrome · #macro · #noir</em>
 </p>
 
 ---
 
-Inspired by Marvel's avatar of Khonshu, the Egyptian god of the Moon and the night sky. The palette blends deep Egyptian obsidian and midnight slate with luminous crescent silver, ceremonial hieroglyphic gold, and spectral celestial cyan.
+Inspired by the dark psychological noir aesthetic of Warren Ellis, Declan Shalvey, and Greg Smallwood's acclaimed *Moon Knight* runs. The palette builds upon a gradient from inky obsidian black (`#09070d`), through atmospheric Egyptian celestial violet (`#a855f7`), into stark lunar silver and pure alabaster white (`#ffffff`).
 
 ## Visual Palette
 
 | Token | Hex | Role |
 | :--- | :--- | :--- |
-| `background` | `#0c0f14` | Deep Egyptian obsidian canvas |
-| `dark_background` | `#080a0e` | Crypt black background |
-| `lighter_background`| `#161b22` | Lunar basalt / panel surfaces |
-| `foreground` | `#e6edf3` | Crescent silver / spectral wraps |
+| `background` | `#09070d` | Obsidian black canvas with deep violet undertone |
+| `dark_background` | `#060408` | Crypt abyss black |
+| `lighter_background`| `#161122` | Midnight violet basalt / card surfaces |
+| `foreground` | `#e5e1f0` | Moonlit linen / silver foreground |
 | `bright_foreground` | `#ffffff` | Pure Mr. Knight alabaster |
-| `accent` | `#38bdf8` | Khonshu celestial cyan |
-| `selection` | `#21262d` | Midnight shadow selection |
-| `muted` | `#484f58` | Weathered tomb slate |
-| `red` | `#f85149` | Blood moon crimson |
-| `yellow` | `#e3b341` | Ceremonial hieroglyphic gold |
-| `green` | `#3fb950` | Scarab emerald |
-| `blue` | `#58a6ff` | Cairo twilight blue |
-| `magenta` | `#bc8cff` | Ethereal divinity purple |
-| `cyan` | `#38bdf8` | Lunar spectral radiance |
+| `accent` | `#a855f7` | Khonshu celestial violet |
+| `selection` | `#281d3d` | Amethyst shadow selection |
+| `muted` | `#493e5e` | Weathered tomb violet-slate |
+| `red` | `#e05263` | Blood moon crimson |
+| `yellow` | `#eab308` | Ancient hieroglyphic gold |
+| `green` | `#10b981` | Sacred scarab jade |
+| `blue` | `#818cf8` | Cairo midnight violet-blue |
+| `magenta` | `#a855f7` | Ethereal divinity purple |
+| `cyan` | `#67e8f9` | Cold lunar spectral cyan |
 
-## Included Wallpapers
+## Included Macro Wallpapers
 
-1. **The Fist of Khonshu** (`backgrounds/1-moon-knight-cairo.png`): Moon Knight perched above Cairo beneath a glowing crescent moon and moonbeams.
-2. **Mr. Knight Noir** (`backgrounds/2-mr-knight-noir.png`): Mr. Knight in a tailored white three-piece suit holding truncheons in the cyan rain.
+1. **The Fist of Khonshu** (`backgrounds/1-moon-knight-cowl.png`): Macro anamorphic close-up of Moon Knight's weathered linen mummy cowl, frayed threads, glowing white eyes, and violet rim lighting.
+2. **Mr. Knight Noir** (`backgrounds/2-mr-knight-macro.png`): High-contrast tactile close-up of Mr. Knight's woven mask, embroidered crescent moon, and tailored suit framed by violet smoke.
+3. **Khonshu's Relic** (`backgrounds/3-khonshu-skull.png`): Weathered Egyptian bird god skull engraved with hieroglyphs, wrapped in ancient linen beside a crescent moon staff.
 
 ## Installation
 
@@ -55,7 +56,7 @@ Activate the theme:
 omarchy theme set moon-knight
 ```
 
-To cycle backgrounds within the theme:
+Cycle wallpapers:
 
 ```bash
 omarchy background next
