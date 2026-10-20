@@ -41,6 +41,8 @@ Inspired by the dark psychological noir aesthetic of Warren Ellis, Declan Shalve
 2. **Mr. Knight Noir** (`backgrounds/2-mr-knight-noir.png`): High-contrast tactile close-up of Mr. Knight's woven mask, embroidered crescent moon, and tailored suit framed by violet smoke.
 3. **Jake Lockley's Cab** (`backgrounds/3-jake-lockley-cab.png`): Macro noir close-up inside a rain-soaked cab with Jake Lockley's intense gaze in the rearview mirror, flat cap, and black leather-gloved hand on the wheel.
 4. **Mr. Knight's Gloves** (`backgrounds/4-mr-knight-gloves.png`): Macro close-up of Mr. Knight adjusting his white leather gloves and silver crescent cufflinks against a tailored white three-piece suit.
+5. **Marc Spector Ink** (`backgrounds/5-marc-spector-ink.png`): Pure monochrome seinen manga ink-and-charcoal bust portrait of unmasked Marc Spector with glowing blank white eyes, tactical armored collar, and curling white ink smoke.
+6. **Half-Wrapped Cowl Ink** (`backgrounds/6-marc-half-cowl-ink.png`): Monochrome manga ink-and-charcoal bust portrait of Marc Spector with frayed ancient linen bandages wrapped across his lower face and neck.
 
 ## Installation
 
