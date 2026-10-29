@@ -46,11 +46,16 @@ Inspired by the dark psychological noir aesthetic of Warren Ellis, Declan Shalve
 
 ## Installation
 
-Link or copy the theme into your user themes directory:
+Install with Omarchy's built-in theme installer (installs as `moon-knight`):
 
 ```bash
-mkdir -p ~/.config/omarchy/themes
-ln -sfn "/home/adix/Work/tries/2026-09-18-moon-knight" ~/.config/omarchy/themes/moon-knight
+omarchy theme install https://github.com/adi-IL/omarchy-moon-knight-theme
+```
+
+Or clone manually into your user themes directory:
+
+```bash
+git clone --depth 1 https://github.com/adi-IL/omarchy-moon-knight-theme.git ~/.config/omarchy/themes/moon-knight
 ```
 
 Activate the theme:
