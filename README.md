@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./preview.png" alt="Moon Knight Omarchy Theme" width="720" />
+  <img src="./backgrounds/2-mr-knight-noir.png" alt="Moon Knight Omarchy Theme" width="720" />
 </p>
 
 <h1 align="center">Moon Knight</h1>
